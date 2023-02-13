@@ -5,6 +5,10 @@ body {
     font-family: 'Poppins';
 }
 
+#compra {
+    height: 100rem;
+}
+
 /* I N F O R M A C I O N */
 #info {
     margin-top: 8rem;
